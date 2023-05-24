@@ -12,7 +12,7 @@ function App() {
       <hr />
       <FormularioTarea></FormularioTarea>
     </Container>
-    <Container className="text-center text-bg-dark py-4">
+    <Container fluid className="text-center text-bg-dark py-4">
       <footer>
         <p>&copy; Todos los derechos reservados.</p>
       </footer>
